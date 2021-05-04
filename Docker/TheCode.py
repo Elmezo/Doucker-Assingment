@@ -24,4 +24,4 @@ word_list = new_intersection.split()
 number_of_words = len(word_list)
 print('The number of word = ',number_of_words)
 print('The word is : ')
-new_intersection
+print(new_intersection)
